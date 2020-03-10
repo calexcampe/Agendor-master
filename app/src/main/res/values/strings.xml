@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agendor_Timeline</string>
+    <string name="agendor">Agendor</string>
+    <string name="novatarefa">Novo Agendamento</string>
+    <string name="login">Login</string>
+    <string name="novouser">Cadastro</string>
+</resources>

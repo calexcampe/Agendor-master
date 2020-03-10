@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:title="Login">
+
+        <extra
+            android:name="email"
+            android:value="0"/>
+
+        <extra
+            android:name="password"
+            android:value="0"/>
+
+        <extra
+            android:name="id"
+            android:value="0"/>
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

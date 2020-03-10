@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236714375607",
+    "firebase_url": "https://agendor-timeline.firebaseio.com",
+    "project_id": "agendor-timeline",
+    "storage_bucket": "agendor-timeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236714375607:android:250578a66b4870c7035032",
+        "android_client_info": {
+          "package_name": "com.example.agendor_timeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236714375607-5qh7dlm4gna44156ut5bs902pq8acmrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9aqW3hsJHwQuAX-dFjT1QpAjORz0VQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236714375607-5qh7dlm4gna44156ut5bs902pq8acmrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
